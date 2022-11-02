@@ -8,4 +8,4 @@ I Used .map() and props to map over the data to make it persistence
 This travel journal has only 3 countries that I've visited, as time goes by,
 I'd like to keep adding to this list.
 
-it can be viewed here [Link text Here](https://wondrous-medovik-8e9da6.netlify.app/)
+it can be viewed here [Here](https://wondrous-medovik-8e9da6.netlify.app/)
